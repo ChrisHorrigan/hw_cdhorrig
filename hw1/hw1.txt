@@ -1,0 +1,12 @@
+1)
+   a. 1, 4
+   b. 3, 4, 5, 2
+   c. 2
+   d. 2
+
+2)
+   a. 1, 3
+   b. git add hw1q2b.cpp
+   git log -3
+   c. The three files will be added to the repository history
+
